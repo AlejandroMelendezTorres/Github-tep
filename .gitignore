@@ -32,9 +32,6 @@ coverage.xml
 .DS_Store
 
 # Data and logs
-Data/
-*.xlsx
-*.csv
 *.log
 .streamlit/
 .streamlit/secrets.toml
